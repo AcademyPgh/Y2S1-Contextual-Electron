@@ -7,7 +7,8 @@ app.on('ready', () => {
       height: 1920,
       width: 1080,
       fullscreen: true,
-      frame: false
+      frame: false,
+      kiosk: true
   });
   
 

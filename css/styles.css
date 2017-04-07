@@ -8,6 +8,10 @@
   font-family: "Avenir Light";
 }
 
+* {
+ cursor: none;
+}
+
 /* Add a black background color to the top navigation */
 
 .nav {
